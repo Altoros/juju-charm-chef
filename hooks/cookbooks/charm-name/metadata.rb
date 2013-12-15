@@ -1,4 +1,4 @@
-amaintainer       "Altoros Systems, Inc."
+maintainer       "Altoros Systems, Inc."
 maintainer_email "pavel.pachkovskij@altoros.com"
 license          "GPL-3"
 description      "JuJu Helpers"
