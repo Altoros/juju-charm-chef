@@ -1,4 +1,4 @@
-This repository contains a sceleton of Juju Charm that uses chef-solo for server configuration.
+This repository contains a skeleton of Juju Charm that uses chef-solo for server configuration.
 
 This README assumes that you are familiar with Juju, Juju charms and Chef.
 
@@ -49,7 +49,7 @@ end
 
 Here is example for Nginx charm that is able to work as a reverse proxy.
 
-To start you have to clon this repo to your charms dir and rename it:
+To start you have to clone this repo to your charms dir and rename it:
 
 ```shell
 cd ~/charms/precise
